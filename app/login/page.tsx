@@ -16,6 +16,5 @@ export default async function Login(){
     <div className="flex-1 flex justify-center items-center">
         <GitHubButton/>
     </div>
-    
   )
 }
