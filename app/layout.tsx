@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body><div className="bg-gray-900 min-h-screen flex text-white">{children}</div></body>
+      <body><div className="bg-gray-900 min-h-screen flex text-white  bg-[url('/chrome-gate.jpeg')] bg-center bg-no-repeat">{children}</div></body>
     </html>
   );
 }
